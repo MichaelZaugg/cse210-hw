@@ -21,15 +21,11 @@ public class Fraction
     }
 
     public string GetFractionString() {
-        // Notice that this is not stored as a member variable.
-        // Is is just a temporary, local variable that will be recomputed each time this is called.
         string text = $"{numerator}/{denominator}";
         return text;
     }
 
     public double GetDecimalValue() {
-        // Notice that this is not stored as a member variable.
-        // Is will be recomputed each time this is called.
         return (double)numerator / (double)denominator;
     }
 }
