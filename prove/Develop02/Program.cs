@@ -23,6 +23,7 @@ class Program
         while(keepGoing) {
             Console.Clear();
             var selection = ShowMenu();
+        
 
 
             if (selection == 1) {
