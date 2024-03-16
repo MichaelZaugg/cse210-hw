@@ -1,0 +1,4 @@
+1500
+SimpleGoal:Go to the park,Go to the park at 1pm,50,True
+EternalGoal:Read a book,Read one book every year,1000
+ChecklistGoal:Go running once a day,Go running once a day for 3 days,350,300,3,3
